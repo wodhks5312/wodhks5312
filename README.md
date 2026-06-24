@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **DUCU**, a C++ developer focused on cross-platform software, computer vision, device control, SDK integration, build systems, and CI automation.
+I'm **DUCU**, a C++ developer working across cross-platform native software, computer vision, device control, SDK integration, build systems, and CI automation.
 
 I mainly work on native software across Windows and Linux environments, with experience in automotive software, medical device software, camera systems, real-time communication, and developer tooling.
 
